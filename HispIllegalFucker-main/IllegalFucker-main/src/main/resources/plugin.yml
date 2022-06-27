@@ -1,0 +1,8 @@
+name: IllegalFucker
+version: '${project.version}'
+main: org.hisparquia.illegalfucker.IllegalFucker
+authors: [ SevJ6 ]
+description: A base plugin with gradle as the build system
+load: POSTWORLD
+depend:
+  - PaperAPIExtentions
